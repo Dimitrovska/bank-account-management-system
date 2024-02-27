@@ -2,7 +2,7 @@
  ![Image Alt text](/image.jpg "Image")
 This is a basic bank account management system, created using the concepts of object oriented programming (OOPs) in Python. This project serves as a foundational framework for managing bank accounts efficiently, offering essential functionalities such as deposit, withdrawal, interest calculation, and more. I am willing to continue work on this project, in order to be able to perform more complex bank operations as well.
 
-I am working on this project as a part of my studies of Python programming course at SoftUni University, with technical trainer Mario Zahariev.
+I am working on this project as a part of my studies of Python programming course at SoftUni University, with technical trainer Mario Zahariev @zahariev-webbersof.
 
 
 ## Features
