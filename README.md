@@ -2,7 +2,7 @@
  ![Image Alt text](/image.jpg "Image")
 This is a basic bank account management system, created using the concepts of object oriented programming (OOPs) in Python. This project serves as a foundational framework for managing bank accounts efficiently, offering essential functionalities such as deposit, withdrawal, interest calculation, and more. I am willing to continue work on this project, in order to be able to perform more complex bank operations as well.
 
-I am working on this project as a part of my studies of Python programming course at SoftUni University, with technical trainer Mario Zahariev @zahariev-webbersof.
+I am working on this project as a part of my studies of Python programming course at SoftUni University, with technical trainer Mario Zahariev.
 
 
 ## Features
@@ -10,7 +10,6 @@ I am working on this project as a part of my studies of Python programming cours
 - **Account Creation**: Easily create new bank accounts with customizable initial balances.
 - **Deposit and Withdrawal**: Perform transactions seamlessly by depositing funds into or withdrawing funds from an account.
 - **Interest Calculation**: Automated interest calculation to help users track their earnings over time.
-- **Account Information**: Retrieve essential information about an account, including balance and transaction history.
 
 
 ## Future Enhancements
