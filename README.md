@@ -12,4 +12,4 @@ I am working on this project as a part of my studies of Python programming cours
 
 
 
-[![npm](https://img.shields.io/npm/dm/localeval.svg)]()
+
