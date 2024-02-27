@@ -13,3 +13,4 @@ I am working on this project as a part of my studies of Python programming cours
 
 
 
+[![Github Downloads (monthly)](https://img.shields.io/github/downloads/kotlin-graphics/kotlin-unsigned/latest/total.svg)]()
