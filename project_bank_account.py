@@ -6,14 +6,12 @@ class BankAccount:
         """
         Constructor method to initialize the account number and balance.
         """
-        # ✳️ Write code to initialize the account number and balance attributes
 
     def deposit(self, amount):
         self.balance += amount
         """
         Method to deposit money into the account.
         """
-        # ✳️ Write code to add the deposited amount to the balance
 
     def withdraw(self, amount):
         if self.balance >= amount:
@@ -23,7 +21,6 @@ class BankAccount:
         """
         Method to withdraw money from the account.
         """
-        # ✳️ Write code to check if there are sufficient funds and deduct the withdrawn amount from the balance
 
     def get_balance(self):
         return self.balance
@@ -31,7 +28,6 @@ class BankAccount:
         """
         Method to retrieve the current balance.
         """
-        # ✳️ Write code to return the current balance
 
 
 class SavingsAccount(BankAccount):
@@ -41,8 +37,6 @@ class SavingsAccount(BankAccount):
         """
         Constructor method to initialize the account number, balance, and interest rate.
         """
-        # ✳️ Call the superclass constructor to initialize common attributes
-        # ✳️ Initialize the interest rate attribute
 
     def calculate_interest(self):
         interest = self.balance * (self.interest_rate / 100)
@@ -50,8 +44,6 @@ class SavingsAccount(BankAccount):
         """
         Method to calculate and add interest to the account balance.
         """
-        # ✳️ Write code to calculate the interest based on the current balance and interest rate
-        # ✳️ Write code to add the calculated interest to the account balance
 
 
 # Testing the functionality of the classes
