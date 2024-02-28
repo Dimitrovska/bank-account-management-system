@@ -33,7 +33,7 @@ To get started with the Bank Account Management System, follow these steps:
    https://github.com/Dimitrovska/Bank-account-management-system
 
 3. **Run the Application**: Execute the main Python script to start using the Bank Account Management System:
-   python main.py
+   python project_bank_account.py
    
 5. **Explore and Contribute**: Explore the codebase, experiment with functionalities, and contribute to the project by adding new features, fixing bugs, or suggesting improvements.
 
